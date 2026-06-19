@@ -55,7 +55,7 @@ Desarrollar una plataforma que permita la gestión de proyectos de software inte
 
 ## Equipo de desarrollo
 
-Keren Almonte Guilamo- Frontend y arquitectura  
+Keren Almonte - Frontend y arquitectura  
 Josue Samuel Campusano - Backend y machine learning
 
 ## Nota
